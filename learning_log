@@ -1,4 +1,4 @@
-Week 1
+# Week 1
 This week we were introduced to the Arduino software and hardware, as well as the idea of physical computing, 
 which from what I understood relates to using programming and operating physical devices. During the lecture we experimented with arduino
 microcontrollers and controlled the blinking of a light that we pinned on the microcontroller via C++ coding. The importance of the delay was highlighted, 
