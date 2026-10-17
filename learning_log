@@ -1,0 +1,7 @@
+
+This week we were introduced to the Arduino software and hardware, as well as the idea of physical computing, 
+which from what I understood relates to using programming and operating physical devices. During the lecture we experimented with arduino
+microcontrollers and controlled the blinking of a light that we pinned on the microcontroller via C++ coding. The importance of the delay was highlighted, 
+as it made the blinking actually visible to the human eye. Most of the exercises were fairly easy, but I occasionally needed some assistance in order to get the blinking light to work, 
+mostly correcting syntax mistakes. To be honest, I kind of struggled with the concept of a breadboard and how one connects the pins and resistors to it, 
+as well as to the microcontroller correctly, meaning putting the resistors vertically and matching them to the anodes and the kathodes of the pin.
