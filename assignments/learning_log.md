@@ -5,3 +5,4 @@ microcontrollers and controlled the blinking of a light that we pinned on the mi
 as it made the blinking actually visible to the human eye. Most of the exercises were fairly easy, but I occasionally needed some assistance in order to get the blinking light to work, 
 mostly correcting syntax mistakes. To be honest, I kind of struggled with the concept of a breadboard and how one connects the pins and resistors to it, 
 as well as to the microcontroller correctly, meaning putting the resistors vertically and matching them to the anodes and the kathodes of the pin.
+
