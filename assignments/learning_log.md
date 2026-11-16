@@ -15,4 +15,8 @@ This week's lecture kicked off by introducing the duty cycle, which basically me
 # Week 4
 This week's lecture contained insight and experimentation with sound specifically with buzzer and different pitch frequencies. There are active and passive buzzers, whose main difference is that active ones can produce sound directly without a signal unlike the passive ones. For this week we mostly used a passive buzzer and used different tools to regulate volume control and produce different well-known melodies. The ultrasonic distance sensor's purpose is still kind of unclear to me and I didn't have enough time to experiment with it in the seminar. There are various types of sensors, but we also interacted with buttons and our last exercise of the day even involved the creation of an instrument with the buttons, which was also unsuccessful due to lack of time.
 
+# Week 5
+
+This week's lecture was about learning and experimenting with a servo motor. A servo motor is essentialy a device, through which one can control position and speed precisely. They enable the creation of small and wearable devices like smart watches or tiny robotics. It was interesting to see how the different positions of the joystick could been seen as x and y coordinates in the serial monitor when we were moving it around. Technically this was achieved with two potentiometers inside it and the addition of the analogRead that reads the knobs. We had a bit of a difficulty operating two servo motors simultaneously, as well as writing the code for it, so unfortunately we had to advise Claude to do so.
+
 
